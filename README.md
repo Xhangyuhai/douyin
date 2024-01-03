@@ -1,2 +1,1 @@
-# douyin
-这是一个毕设
+# camp_tiktok
